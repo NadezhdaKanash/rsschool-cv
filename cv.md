@@ -28,6 +28,23 @@ Children:	No
 
 ***
 
+##Main Skills
+
+####Technical skills:
+- expert knowledge of HTML5 and CSS3 (including pixel-perfect, less, flex, mediaqueries, vector graphics and fonts, Bootstrap)
+- experience in JavaScript (more than 3 years of user experience)
+- hands-on experience of jQuery
+- PHP (understanding of OOP, working with MySql, working with universal data exchange formats (JSON, XML), protecting a web application from basic vulnerabilities)
+- hands-on experience with Bitrix, WordPress, Joomla, Opencart
+
+####Soft skills:
+- expert knowledge of using Photoshop
+- experience with FIgma
+- experience with gulp
+- English - B1 
+
+***
+
 ## Work Experience
 
 ### April 2017 – present
