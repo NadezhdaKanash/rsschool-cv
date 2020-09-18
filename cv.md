@@ -85,7 +85,7 @@ Belarusian National Technical University (BNTU)
 
 ***
 
-## Examples of my projects:
+## Examples of the projects:
 
 - [evroplast.ru](https://evroplast.ru/)
 
