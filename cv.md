@@ -46,41 +46,41 @@ Customs Officer
 
 ## Education
 
-##### 06.09.2020 – present 
+#### 06.09.2020 – present 
 
 RS Scholl
 
 JavaScript/Front-end Development
 
-##### 01.09.2019 – 31.09.2020
+#### 01.09.2019 – 31.09.2020
 
 Centre for Foreign Languages Study «Universum» at the Polotsk State University
 
 Spoken English (courses)
 
-##### 01.09.2018 – 31.09.2019
+#### 01.09.2018 – 31.09.2019
 
 Centre for Foreign Languages Study «Universum» at the Polotsk State University
 
 Spoken English (courses)
 
-##### 25.12.2016 – 10.02.2017
+#### 25.12.2016 – 10.02.2017
 
 GLO Academy
 Web-designer (courses)
 
-##### 15.11.2016 – 30.12.2016
+#### 15.11.2016 – 30.12.2016
 
     GLO Academy
     Web-developer 4.0 (courses)
     
-##### 09.09.2013 – 08.09.2015
+#### 09.09.2013 – 08.09.2015
 
 School of Business and Management of Technology of BSU
 
 Programmer-web designer (retraining)
 
-##### 01.09.2006 – 30.06.2011
+#### 01.09.2006 – 30.06.2011
 
 Belarusian National Technical University (BNTU)
 
