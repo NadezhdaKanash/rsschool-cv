@@ -1,1 +1,1 @@
-# rsschool-cv
+https://nadezhdakanash.github.io/rsschool-cv/cv
