@@ -1,8 +1,8 @@
-#Nadezhda Kanash
+# Nadezhda Kanash
 
 ***
 
-##Contacts
+## Contacts
 
 tel.:       **+375-29-877-82-64**  
 e-mail:     **nadida.hi@gmail.com**  
