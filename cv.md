@@ -71,8 +71,8 @@ Web-designer (courses)
 
 #### 15.11.2016 – 30.12.2016
 
-    GLO Academy
-    Web-developer 4.0 (courses)
+GLO Academy  
+Web-developer 4.0 (courses)
     
 #### 09.09.2013 – 08.09.2015
 
