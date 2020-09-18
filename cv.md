@@ -142,6 +142,10 @@ Belarusian National Technical University (BNTU)
 
 I value my time and respect yours. As I’m working remotely, I need to be efficient and self-disciplined, so I am interested in time management and psychology.  I like working on interesting projects and unusual tasks. I am lifelong learner; studying is an important part of my life.
 
+***
 
+##Additional Skills
 
+Languages: 	German – B1
 
+Driving License (Category B)
