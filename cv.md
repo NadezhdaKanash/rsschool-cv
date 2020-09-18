@@ -87,7 +87,7 @@ Belarusian National Technical University (BNTU)
 
 ## Examples of my projects:
 
-[evroplast.ru](https://evroplast.ru/)
+- [evroplast.ru](https://evroplast.ru/)
 
 **Task**: desktop version redesign 
 
@@ -103,14 +103,22 @@ Belarusian National Technical University (BNTU)
 
 **Used**: HTML5/CSS, JS, jQuery, Bitrix (only database and core, without any default components)
 
+- [novaya.by](https://www.novaya.by/)
 
-[novaya.by](https://www.novaya.by/)
-
-**Task:** [Homepage](https://www.novaya.by/) redesign and creating [the Memory Gallery](https://www.novaya.by/memory_gallery/)
+**Task:** [homepage](https://www.novaya.by/) redesign and creating [the Memory Gallery](https://www.novaya.by/memory_gallery/)
 
 **Responsibilities**: coding and working with WordPress
 
 **Used**: HTML5/CSS, JS, jQuery, WordPress
+
+- [bestsleep.ru](http://bestsleep.portu.by/)
+
+**Task:** development from scratch.
+
+**Responsibilities:** the whole site – coding and working with Bitrix. The project is still in development, only desktop version is ready.
+
+**Used:** HTML5/CSS, JS, jQuery, Bitrix (only database and core, without any default components)
+
 
 
 
