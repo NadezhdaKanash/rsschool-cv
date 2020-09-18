@@ -25,3 +25,20 @@ Nationality:  	Belarus
 Marital Status: 	Married
 
 Children:	No
+
+***
+
+## Work Experience
+
+### April 2017 – present
+
+Portu
+
+Programmer (Full-stack developer)
+
+### July 2011 – July 2016 
+
+Vitebskaya customs
+
+Customs Officer
+
