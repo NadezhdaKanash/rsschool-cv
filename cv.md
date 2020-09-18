@@ -87,11 +87,30 @@ Belarusian National Technical University (BNTU)
 
 ## Examples of my projects:
 
-https://www.novaya.by/  
+[evroplast.ru](https://evroplast.ru/)
 
-**Task:** Homepage redesign and creating the Memory Gallery (https://www.novaya.by/memory_gallery/)
+**Task**: desktop version redesign 
+
+**Responsibilities**: coding and working with Bitrix on pages:  
+[homepage](https://evroplast.ru/)  
+[gallery](https://evroplast.ru/gallery/) and [single gallery page](https://evroplast.ru/gallery/64686)  
+[news](https://evroplast.ru/mag/#all) and [single news page](https://evroplast.ru/mag/92149)  
+[catalogue](https://evroplast.ru/catalogue/) and [single product page](https://evroplast.ru/catalogue/interernyj-dekor/karnizy/1-50-298)  
+[collection](https://evroplast.ru/collection/) and [single collection page](https://evroplast.ru/collection/mauritania)
+[downloads](https://evroplast.ru/download/)  
+[cart](https://evroplast.ru/cart/)  
+[personal account](https://evroplast.ru/personal/)
+
+**Used**: HTML5/CSS, JS, jQuery, Bitrix (only database and core, without any default components)
+
+
+[novaya.by](https://www.novaya.by/)
+
+**Task:** [Homepage](https://www.novaya.by/) redesign and creating [the Memory Gallery](https://www.novaya.by/memory_gallery/)
 
 **Responsibilities**: coding and working with WordPress
 
 **Used**: HTML5/CSS, JS, jQuery, WordPress
+
+
 
