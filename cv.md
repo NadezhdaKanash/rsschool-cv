@@ -83,6 +83,15 @@ School of Business and Management of Technology of BSU
 01.09.2006 – 30.06.2011  
 Belarusian National Technical University (BNTU)
 
+***
 
+## Examples of my projects:
 
+https://www.novaya.by/  
+
+**Task:** Homepage redesign and creating the Memory Gallery (https://www.novaya.by/memory_gallery/)
+
+**Responsibilities**: coding and working with WordPress
+
+**Used**: HTML5/CSS, JS, jQuery, WordPress
 
