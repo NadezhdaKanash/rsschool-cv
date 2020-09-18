@@ -28,16 +28,16 @@ Children:	No
 
 ***
 
-##Main Skills
+## Main Skills
 
-####Technical skills:
+#### Technical skills:
 - expert knowledge of HTML5 and CSS3 (including pixel-perfect, less, flex, mediaqueries, vector graphics and fonts, Bootstrap)
 - experience in JavaScript (more than 3 years of user experience)
 - hands-on experience of jQuery
 - PHP (understanding of OOP, working with MySql, working with universal data exchange formats (JSON, XML), protecting a web application from basic vulnerabilities)
 - hands-on experience with Bitrix, WordPress, Joomla, Opencart
 
-####Soft skills:
+#### Soft skills:
 - expert knowledge of using Photoshop
 - experience with FIgma
 - experience with gulp
@@ -138,13 +138,13 @@ Belarusian National Technical University (BNTU)
 
 ***
 
-##About me
+## About me
 
 I value my time and respect yours. As I’m working remotely, I need to be efficient and self-disciplined, so I am interested in time management and psychology.  I like working on interesting projects and unusual tasks. I am lifelong learner; studying is an important part of my life.
 
 ***
 
-##Additional Skills
+## Additional Skills
 
 Languages: 	German – B1
 
